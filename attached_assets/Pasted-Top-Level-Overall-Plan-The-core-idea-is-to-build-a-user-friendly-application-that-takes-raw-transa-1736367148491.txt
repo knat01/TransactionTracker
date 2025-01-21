@@ -1,0 +1,87 @@
+Top-Level Overall Plan:
+
+The core idea is to build a user-friendly application that takes raw transaction data, uses AI to analyze it, and presents insights in two distinct ways: visually on a dashboard and through a conversational chat interface. The application will act as a personal investment analyst powered by AI.
+
+User Flow:
+
+User Opens Application: The user launches the application on their device (web browser, desktop app, etc.).
+
+Navigation: The user is presented with two main tabs: "Dashboard" and "Chat Analysis".
+
+Data Input (Both Tabs): On either tab, the user will see a clear area to paste their Wealthsimple transaction history. This will likely be a large text area.
+
+Data Submission: The user pastes their data and clicks a "Analyze" or similar button.
+
+Data Processing & API Call:
+
+The application receives the raw transaction data.
+
+Crucial Step: The application will need to parse the pasted text to extract relevant information (date, security, action (buy/sell), quantity, price, fees, etc.). This parsing logic is essential.
+
+The parsed data is then sent to the DeepSeek API. The API prompt will be designed to ask for specific analyses and insights based on the transaction data.
+
+DeepSeek API Response: The DeepSeek API processes the data and returns a text-based analysis. This response will likely contain insights, summaries, potential observations, and answers to the implicitly asked questions (based on the prompt).
+
+Dashboard Display:
+
+Data Organization: The parsed transaction data is organized for visualization.
+
+Chart Generation: The application uses charting libraries to generate relevant charts based on the parsed data. Examples:
+
+Portfolio value over time.
+
+Asset allocation (pie chart of holdings).
+
+Profit/loss per security.
+
+Transaction volume over time.
+
+Cost basis vs. current value.
+
+Key Metrics: Display key summary statistics like total profit/loss, average holding period, best/worst performing assets.
+
+Chat Analysis Display:
+
+The raw text response from the DeepSeek API is displayed in the chat interface.
+
+The user can then interact with the chatbot by asking follow-up questions about the analysis or specific trades.
+
+The application sends the user's questions along with the original transaction data (or a summary) back to the DeepSeek API for further analysis and responses.
+
+Application Plan (High-Level):
+
+Frontend Development:
+
+User Interface (UI): Design the layout with the two tabs (Dashboard and Chat Analysis). Ensure a clear area for pasting data.
+
+Data Handling: Implement the logic to capture the pasted text.
+
+Dashboard Components: Integrate charting libraries (e.g., Chart.js, Recharts) to display visual data.
+
+Chat Interface: Create a simple chat window to display DeepSeek's responses and allow user input.
+
+State Management: Manage the application's state (e.g., the raw data, parsed data, API response).
+
+Backend (or Client-Side Processing for Simplicity initially):
+
+Data Parsing: Develop the core logic to parse the Wealthsimple transaction history. This is a critical step as the format can be complex. Regular expressions or dedicated parsing libraries might be needed.
+
+API Integration: Implement the communication with the DeepSeek API. This involves:
+
+Formatting the data into a suitable prompt for the API.
+
+Sending the request to the DeepSeek API endpoint.
+
+Handling the API response.
+
+Data Storage (Optional Initially): For a basic version, you might not need a database. However, for future enhancements (saving past analyses, user profiles), a database would be required.
+
+DeepSeek API Integration:
+
+Prompt Engineering: Craft effective prompts to the DeepSeek API to get the desired insights. This will be iterative and require experimentation. Consider asking for summaries, identification of trends, risk assessment, etc.
+
+Handling Responses: Process the API response to display it appropriately in the chat and potentially extract data for the dashboard.
+
+Deployment:
+
+Choose a platform to host your application (e.g., Netlify, Vercel for web apps; Electron for desktop apps).

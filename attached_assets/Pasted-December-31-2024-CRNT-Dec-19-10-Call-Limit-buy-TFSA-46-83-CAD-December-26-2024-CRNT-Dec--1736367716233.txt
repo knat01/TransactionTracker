@@ -1,0 +1,509 @@
+December 31, 2024
+
+
+CRNT Dec 19 $10 Call
+
+Limit buy
+
+TFSA
+
+$46.83 CAD
+
+December 26, 2024
+
+
+CRNT Dec 19 $10 Call
+
+Limit buy
+
+TFSA
+
+$123.42 CAD
+
+
+SOUN
+
+SOUN
+
+Limit sell
+
+TFSA
+
+$174.40 CAD
+
+December 19, 2024
+
+SOUN
+
+SOUN
+
+Limit sell
+
+TFSA
+
+$434.29 CAD
+
+Expired
+
+TSLA
+
+TSLA
+
+Fractional buy
+
+TFSA
+
+$22.46 CAD
+
+
+TSLA
+
+TSLA
+
+Market buy
+
+TFSA
+
+$154.44 CAD
+
+
+PLTR
+
+PLTR
+
+Market buy
+
+TFSA
+
+$324.44 CAD
+
+
+AMZN
+
+AMZN
+
+Limit sell
+
+TFSA
+
+$106.60 CAD
+
+
+
+QUBT
+
+Limit sell
+
+TFSA
+
+$383.53 CAD
+
+
+
+QUBT
+
+Limit sell
+
+TFSA
+
+$450.07 CAD
+
+Cancelled
+
+
+QUBT
+
+Limit buy
+
+TFSA
+
+$130.99 CAD
+
+
+NVDA
+
+NVDA
+
+Limit sell
+
+TFSA
+
+$124.24 CAD
+
+
+
+QUBT
+
+Limit buy
+
+TFSA
+
+$297.89 CAD
+
+
+GOOG
+
+GOOG
+
+Limit sell
+
+TFSA
+
+$159.95 CAD
+
+
+MSFT
+
+MSFT
+
+Limit sell
+
+TFSA
+
+$96.81 CAD
+
+
+NUKK
+
+NUKK
+
+Limit sell
+
+TFSA
+
+$57.77 CAD
+
+
+GOOG
+
+GOOG
+
+Limit buy
+
+TFSA
+
+$159.50 CAD
+
+
+AMZN
+
+AMZN
+
+Limit buy
+
+TFSA
+
+$106.96 CAD
+
+
+TSLA
+
+TSLA
+
+Limit buy
+
+TFSA
+
+$40.28 CAD
+
+
+RGTI
+
+RGTI
+
+Limit sell
+
+TFSA
+
+$101.42 CAD
+
+
+QBTS
+
+QBTS
+
+Limit sell
+
+TFSA
+
+$178.80 CAD
+
+
+SOUN
+
+SOUN
+
+Limit buy
+
+TFSA
+
+$230.95 CAD
+
+
+
+QUBT
+
+Market sell
+
+TFSA
+
+$243.13 CAD
+
+
+MSFT
+
+MSFT
+
+Limit buy
+
+TFSA
+
+$96.87 CAD
+
+
+NVDA
+
+NVDA
+
+Limit buy
+
+TFSA
+
+$123.08 CAD
+
+
+SOUN
+
+SOUN
+
+Market sell
+
+TFSA
+
+$227.11 CAD
+
+
+QBTS
+
+QBTS
+
+Limit buy
+
+TFSA
+
+$53.34 CAD
+
+
+RGTI
+
+RGTI
+
+Limit buy
+
+TFSA
+
+$110.49 CAD
+
+
+AMD
+
+AMD
+
+Market sell
+
+TFSA
+
+$136.86 CAD
+
+
+
+QUBT
+
+Limit buy
+
+TFSA
+
+$262.15 CAD
+
+
+SOUN
+
+SOUN
+
+Limit buy
+
+TFSA
+
+$317.98 CAD
+
+
+
+QUBT
+
+Market sell
+
+TFSA
+
+$612.77 CAD
+
+
+QBTS
+
+QBTS
+
+Limit buy
+
+TFSA
+
+$133.89 CAD
+
+
+
+QUBT
+
+Limit buy
+
+TFSA
+
+$283.84 CAD
+
+
+MU
+
+MU
+
+Market sell
+
+TFSA
+
+$407.60 CAD
+
+December 18, 2024
+
+SOUN
+
+SOUN
+
+Limit buy
+
+TFSA
+
+$211.47 CAD
+
+
+
+CRNT
+
+Market sell
+
+TFSA
+
+$152.21 CAD
+
+
+NUKK
+
+NUKK
+
+Limit buy
+
+TFSA
+
+$67.86 CAD
+
+Cancelled
+
+QBTS
+
+QBTS
+
+Limit buy
+
+TFSA
+
+$38.62 CAD
+
+
+
+QUBT
+
+Limit buy
+
+TFSA
+
+$155.03 CAD
+
+
+NUKK
+
+NUKK
+
+Limit buy
+
+TFSA
+
+$86.16 CAD
+
+
+
+QUBT
+
+Limit sell
+
+TFSA
+
+$161.32 CAD
+
+Cancelled
+
+
+QUBT
+
+Limit sell
+
+TFSA
+
+$182.67 CAD
+
+Cancelled
+
+
+QUBT
+
+Limit sell
+
+TFSA
+
+$163.70 CAD
+
+Cancelled
+
+
+QUBT
+
+Limit sell
+
+TFSA
+
+$322.47 CAD
+
+Cancelled
+
+
+QUBT
+
+Market buy
+
+TFSA
+
+$154.96 CAD
+
+
+
+PTK
+
+Market sell
+
+TFSA
+
+$73.60 CAD
